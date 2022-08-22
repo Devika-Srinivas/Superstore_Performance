@@ -1,3 +1,3 @@
 # Superstore_Performance
 
-![Superstore_image](Superstore_image.jpg)
+![Superstore_image](image/Superstore_image.JPG)
